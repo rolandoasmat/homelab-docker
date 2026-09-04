@@ -1,4 +1,1 @@
 CF_DNS_API_TOKEN=op://docker/traefik/CF_DNS_API_TOKEN
-OIDC_CLIENT_ID=op://docker/traefik/OIDC_CLIENT_ID
-OIDC_CLIENT_SECRET=op://docker/traefik/OIDC_CLIENT_SECRET
-FORWARD_AUTH_SECRET=op://docker/traefik/FORWARD_AUTH_SECRET
